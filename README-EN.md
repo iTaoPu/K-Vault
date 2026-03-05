@@ -33,11 +33,17 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="demo/图片浏览页面.webp" alt="Image Browse Page" style="width:100%">
-    </td>
-    <td width="50%">
-      <img src="demo/WebDAV页面.webp" alt="WebDAV Page" style="width:100%">
+    <td colspan="3" align="center">
+      <table width="66.66%">
+        <tr>
+          <td width="50%">
+            <img src="demo/图片浏览页面.webp" alt="Image Browse Page" style="width:100%">
+          </td>
+          <td width="50%">
+            <img src="demo/WebDAV页面.webp" alt="WebDAV Page" style="width:100%">
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
